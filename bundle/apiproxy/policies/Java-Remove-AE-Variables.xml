@@ -1,0 +1,8 @@
+<JavaCallout name='Java-Remove-AE-Variables'>
+  <Properties>
+    <Property name="recurse-access-entity">true</Property>
+    <Property name="variables">AccessEntity.AE-API-Product</Property>
+  </Properties>
+  <ClassName>com.google.apigee.callouts.RemoveVariable</ClassName>
+  <ResourceURL>java://apigee-callout-remove-variable-20230526.jar</ResourceURL>
+</JavaCallout>

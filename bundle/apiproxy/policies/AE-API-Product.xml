@@ -1,0 +1,4 @@
+<AccessEntity name='AE-API-Product'>
+  <EntityType value='apiproduct' />
+  <EntityIdentifier type='consumerkey' ref='client_id' />
+</AccessEntity>

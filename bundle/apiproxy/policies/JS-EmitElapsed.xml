@@ -1,0 +1,3 @@
+<Javascript enabled='true' continueOnError='false' async='false' name='JS-EmitElapsed'>
+  <ResourceURL>jsc://emitElapsed.js</ResourceURL>
+</Javascript>
