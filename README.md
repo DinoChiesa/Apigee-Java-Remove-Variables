@@ -14,7 +14,7 @@ it removes variables.
 2. Build with maven.
   ```mvn clean package```
 
-3. if you edit proxy bundles offline, copy the resulting jar file, available in  target/httpsig-edge-callout.jar to your apiproxy/resources/java directory.  If you don't edit proxy bundles offline, upload the jar file into the API Proxy via the Apigee API Proxy Editor .
+3. if you edit proxy bundles offline, copy the resulting jar file, available in  target/apigee-callout-remove-variable-20230526.jar to your apiproxy/resources/java directory.  If you don't edit proxy bundles offline, upload the jar file into the API Proxy via the Apigee API Proxy Editor .
 
 4. include an XML file for the Java callout policy in your
    apiproxy/resources/policies directory. It should look
