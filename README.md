@@ -32,7 +32,9 @@ it removes variables.
 
    * The `variables` value can be a comma-separated list.
 
-   * The `recurse-access-entityt` is a boolean, denoting special behavior for variables set with AccessEntity.  The policy will remove ALL the "sub-variables" when this property is true.
+   * The `recurse-access-entity` is a boolean, denoting special behavior for
+     variables set with AccessEntity.  The policy will remove ALL the
+     "sub-variables" when this property is true.
 
 5. use the Google Cloud Console UI, or a tool like [importAndDeploy.js](https://github.com/DinoChiesa/apigee-edge-js-examples/blob/master/importAndDeploy.js) or similar to
    import the proxy into an Edge organization, and then deploy the proxy .
